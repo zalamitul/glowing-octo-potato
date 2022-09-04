@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.ecfdcedf.css",
-    "main.js": "./static/js/main.fd429481.js",
+    "main.js": "./static/js/main.1d9b2331.js",
     "static/media/questiondrop.png": "./static/media/questiondrop.4d72f312b4f30b9d619b.png",
     "static/media/me.png": "./static/media/me.9f02cd0592d39d7d77c6.png",
     "static/media/output-onlinepngtools.png": "./static/media/output-onlinepngtools.7dbf8645de776776c68e.png",
     "static/media/bgproject.jpg": "./static/media/bgproject.fa7a3dd96c1dc9a4b12e.jpg",
     "static/media/react-1-logo.png": "./static/media/react-1-logo.2b75069778db65d2d779.png",
     "static/media/clickgame.png": "./static/media/clickgame.bb257a7857934ce6ea79.png",
+    "static/media/todolist.png": "./static/media/todolist.69cadaf9b11b8d333e56.png",
     "static/media/instagram.png": "./static/media/instagram.1792ff30fb032c94685c.png",
     "static/media/whatsapp.png": "./static/media/whatsapp.965d92ce0d9f486938b6.png",
     "static/media/software.png": "./static/media/software.0b8f013a350a0abdf94f.png",
@@ -27,10 +28,10 @@
     "static/media/facebook.png": "./static/media/facebook.8d51a55626e9bf107f8f.png",
     "index.html": "./index.html",
     "main.ecfdcedf.css.map": "./static/css/main.ecfdcedf.css.map",
-    "main.fd429481.js.map": "./static/js/main.fd429481.js.map"
+    "main.1d9b2331.js.map": "./static/js/main.1d9b2331.js.map"
   },
   "entrypoints": [
     "static/css/main.ecfdcedf.css",
-    "static/js/main.fd429481.js"
+    "static/js/main.1d9b2331.js"
   ]
 }
